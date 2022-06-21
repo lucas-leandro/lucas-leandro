@@ -10,3 +10,4 @@
 <div style="display : inline_block"><br>
    
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-leandro&layout=compact)](https://github.com/lucas-leandro/github-readme-stats)
