@@ -5,7 +5,4 @@
 </div>
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-leandro&show_icons=true&theme=dracula)
-
-## Tecnologias que uso.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-leandro&layout=compact)](https://github.com/lucas-leandro/github-readme-stats)
